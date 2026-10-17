@@ -1,0 +1,420 @@
+id,text,sentiment,topic
+1,Aaje movie bahu saras hati yaar must watch,positive,movie
+2,Story ekdum mast che acting pan top class,positive,movie
+3,Movie ma music ketlu sundar che maja aavi gai,positive,movie
+4,Climax joi ne rongta ubha thai gaya superb,positive,movie
+5,Hero ni acting ekdum jhakaas che 10/10,positive,movie
+6,Aa movie bakwas che paisa waste thaya,negative,movie
+7,Story ma kai dum nathi bahu boring hati,negative,movie
+8,Ending ekdum faltu hato time waste,negative,movie
+9,Acting bahu kharab che dekhi ne gussa aavyo,negative,movie
+10,Movie ni first half slow hati pan second half theek che,neutral,movie
+11,Aaje movie jovi che koi aave che,neutral,movie
+12,Movie ma songs saras che but story thodi weak che,mixed,movie
+13,Acting good che pan direction kharab che,mixed,movie
+14,Aaje dhokla ekdum mast banya che mummy ne thanks,positive,food
+15,Undhiyu no taste ekdum perfect che maja padi gai,positive,food
+16,Gujarati thali ma bahu variety che superb food,positive,food
+17,Fafda jalebi ni combination to best che yaar,positive,food
+18,Khaman ekdum soft ane tasty hata loved it,positive,food
+19,Restaurant nu khavanu bahu kharab hatu feel thayu,negative,food
+20,Pizza thandi hati ane service pan slow hati,negative,food
+21,Chai ma sugar j nathi bahu bekar che,negative,food
+22,Khana bahu mehngu che ane taste pan nathi,negative,food
+23,Aaje lunch ma shu banavyu che,neutral,food
+24,Thepla ane chai no nasto kari lidho,neutral,food
+25,Food saras hatu pan price bahu vadhare che,mixed,food
+26,Taste mast che but quantity bahu ochi che,mixed,food
+27,India ye match jiti lidhi bahu maja aavi,positive,cricket
+28,Kohli nu batting joi ne dil khush thai gayu,positive,cricket
+29,Aaje ni bowling ekdum zabardast hati well played,positive,cricket
+30,Team India ne congratulations khub saras rami,positive,cricket
+31,Aaje match haari gaya bahu dukh thayu,negative,cricket
+32,Batting ekdum kharab hati sharam ni vaat che,negative,cricket
+33,Umpire no decision bakwas hato cheating che,negative,cricket
+34,Aaje cricket match kyare chalu thase,neutral,cricket
+35,Match 7 vage chalu thase tv par jovo,neutral,cricket
+36,Bowling saras hati pan fielding bahu weak hati,mixed,cricket
+37,Aaje hava bahu saras che ekdum thandi thandi,positive,weather
+38,Varsad pade che maja aavi gai chai pakoda time,positive,weather
+39,Aaje garmi bahu j vadhare che sahan nathi thati,negative,weather
+40,Traffic ma fasayo chhu bahu irritating che,negative,weather
+41,Aaje vadal chhaya che lagey varsad aavse,neutral,weather
+42,Winter saras che pan savare uthvu bahu mushkil che,mixed,weather
+43,Trip ekdum amazing hati Gir ma lion joya maja aavi,positive,travel
+44,Kutch ni trip ni yaado hamesha yaad raheshe,positive,travel
+45,Ahmedabad ni heritage walk bahu mast hati loved it,positive,travel
+46,Hotel ekdum clean hatu ane staff bahu helpful hata,positive,travel
+47,Train ma bahu bheed hati ane seat pan na madi,negative,travel
+48,Hotel nu room bahu gandu hatu paisa waste,negative,travel
+49,Bus aaje 2 kalak late aavi bahu pareshan thayo,negative,travel
+50,Kale savare Surat javanu che ticket book kari che,neutral,travel
+51,Saputara jaiye chhiye weekend ma plan che,neutral,travel
+52,Jagya bahu sundar che pan bahu bheed hati,mixed,travel
+53,College ma aaje bahu maja aavi friends sathe,positive,college
+54,Professor ye bahu saras samjavyu thanks sir,positive,college
+55,Result aavyu ane hu pass thai gayo bahu khush chhu,positive,college
+56,Exam ma full marks aavya hu bahu happy chhu,positive,college
+57,Exam bahu tough hati kai aavdyu nahi,negative,college
+58,Assignment no bahu bojo che stress thai gayu,negative,college
+59,Lecture bahu boring hatu mane uungh aavi gai,negative,college
+60,Result ma fail thayo bahu bura lage che,negative,college
+61,Kale college ma lab che record leti aavje,neutral,college
+62,Exam nu timetable aavi gayu che check karo,neutral,college
+63,Practical saras hatu pan viva ma bahu darr lagyo,mixed,college
+64,Teacher saras che pan homework bahu aape che,mixed,college
+65,Customer care ye bahu saras help kari thank you,positive,service
+66,Delivery time par aavi gai ekdum fast service,positive,service
+67,Product ni quality bahu saras che paisa vasool,positive,service
+68,App bahu smooth chale che mast banavi che,positive,service
+69,Delivery bahu late thai ane parcel pan tuti gayu,negative,service
+70,Customer care ye koi jawab j nathi didho bahu kharab,negative,service
+71,Product ni quality ekdum bakwas che refund joiye,negative,service
+72,App vaar vaar crash thay che bahu irritating che,negative,service
+73,Mari order no status check karo please,neutral,service
+74,Parcel kyare aavse tracking number moklo,neutral,service
+75,Product saras che pan delivery late hati,mixed,service
+76,Service theek che pan price vadhare che,mixed,service
+77,Tame kem chho badha majama,positive,general
+78,Happy birthday bhai tane khub khub shubhechha,positive,general
+79,Aaje tahevar chhe badha ne Diwali ni shubhkamna,positive,general
+80,Tu bahu j saro manas chho dil thi thank you,positive,general
+81,Aaje mood ekdum kharab che koi sathe vaat nathi karvi,negative,general
+82,Bahu thaki gayo chhu kai karvanu man nathi,negative,general
+83,Tu hamesha late j aave che bahu gussa aave che,negative,general
+84,Aa badhu bahu j bekar che have thaki gayo,negative,general
+85,Kya chho aaje kai khaas plan che,neutral,general
+86,Hu ghare pochi gayo chhu tame kya chho,neutral,general
+87,Kale savare 9 vage meeting che bhulta nahi,neutral,general
+88,Aaje phone ni battery low che charger moklo,neutral,general
+89,Kaam saru che pan salary bahu ochi che,mixed,general
+90,Ghar ma maja che pan miss tu karu chhu friends ne,mixed,general
+91,Bhai tu to ekdum legend che salute che tane,positive,general
+92,Kharekhar bahu maja aavi aaje full enjoy karyu,positive,general
+93,Wow ketlu sundar photo che superb yaar,positive,social
+94,Reel ekdum viral thai gai bahu khushi thai,positive,social
+95,Aa post bahu inspiring che sabko share karo,positive,social
+96,Video ma content ekdum fake che dont believe,negative,social
+97,Aa page ye bahu j galat information api che,negative,social
+98,Comment ma loko bahu gaali aape che sharam che,negative,social
+99,Aa post share karo jo gamyu hoy to,neutral,social
+100,Link ma jou chhu shu che aa,neutral,social
+101,Video saras che pan sound quality kharab che,mixed,social
+102,Idea saras che but execution weak che,mixed,social
+103,Bahuuu saras yaar loved it,positive,movie
+104,Gud morning badha ne have a nice day,positive,general
+105,Thank u so much bhai tame bahu help kari,positive,general
+106,Bohot bekar service hati never again,negative,service
+107,Ekdum faltu app che uninstall kari didhi,negative,service
+108,Bahu mast che aa song ekdum trending,positive,social
+109,Saras saras ekdum top notch,positive,general
+110,Aa phone nu camera ekdum jhakaas che,positive,service
+111,Phone ni battery bahu jaldi utri jay che bakwas,negative,service
+112,Laptop kharid vo che koi suggestion aapo,neutral,service
+113,Net slow che aaje kai load nathi thatu bahu irritate che,negative,service
+114,Wifi saru chale che pan speed thodi ochi che,mixed,service
+115,Aaje office ma bahu kaam hatu thaki gayo,negative,general
+116,Boss ye aaje appreciate karyu khub maja aavi,positive,general
+117,Salary credit thai gai bahu khush chhu,positive,general
+118,Kale rajaa che etle aaje j kaam purun karvu che,neutral,general
+119,Interview saru gayu pan result ni chinta che,mixed,general
+120,Traffic ma bahu time gayo pan time par pochi gayo,mixed,travel
+121,Movie saras hati pan lambi bahu hati,mixed,movie
+122,Songs mast che but story weak che yaar,mixed,movie
+123,Acting top class pan screenplay boring hatu,mixed,movie
+124,Climax saro hato pan beginning bahu slow hati,mixed,movie
+125,Heroine ni acting good pan hero over acting kare che,mixed,movie
+126,Trailer ekdum mast hatu pan movie average nikli,mixed,movie
+127,Comedy scenes saras hata pan emotional part bakwas hato,mixed,movie
+128,Visuals stunning che pan story samajh na aavi,mixed,movie
+129,Gujarati film saras che pan editing thodi kharab che,mixed,movie
+130,Songs superhit che pan movie bahu lambi che,mixed,movie
+131,Bahut accha movie tha but ending bakwas thi,mixed,movie
+132,Hindi dubbing theek hai pan voice match nathi karti,mixed,movie
+133,Dhokla tasty hata pan thoda thanda hata,mixed,food
+134,Pani puri mast hati but pani bahu teekhu hatu,mixed,food
+135,Biryani saras hati pan rice kacha hata,mixed,food
+136,Cafe nu ambience saru che pan coffee bekar che,mixed,food
+137,Pizza tasty hato pan delivery late aavi,mixed,food
+138,Khichdi ma swad che pan namak vadhare che,mixed,food
+139,Restaurant clean che pan food mehngu che,mixed,food
+140,Jalebi garam hati pan bahu meethi hati,mixed,food
+141,Dabeli mast che but sauce ochu hatu,mixed,food
+142,Thali saras hati pan service slow hati,mixed,food
+143,Ice cream tasty che pan price bahu vadhare che,mixed,food
+144,Chaat ekdum mast hati but plate gandi hati,mixed,food
+145,Food accha hai pan service slow che,mixed,food
+146,Match jiti gaya pan bowling saru nahi hati,mixed,cricket
+147,Rohit ni batting saras hati pan team haari gai,mixed,cricket
+148,Pehla half saro hato pan last over ma bahu tension hatu,mixed,cricket
+149,Captain saro che pan selection kharab che,mixed,cricket
+150,Win thayu pan fielding bahu weak hati,mixed,cricket
+151,Bumrah ni bowling zabardast hati pan batting fail gai,mixed,cricket
+152,Stadium ma maja aavi pan parking ni bahu problem hati,mixed,cricket
+153,Match close hati pan umpire decision galat hato,mixed,cricket
+154,Kya mast match hati pan result bura aavyo,mixed,cricket
+155,Din bahu garam hato pan sanje hava saras hati,mixed,weather
+156,Varsad ni maja aavi pan road ma pani bharai gaya,mixed,weather
+157,Winter game che pan savare bahu thand lage che,mixed,weather
+158,Weather saru che pan humidity bahu che,mixed,weather
+159,Savar saru hatu pan bapore bahu garmi hati,mixed,weather
+160,Vadal saras che pan umbrella bhuli gayo,mixed,weather
+161,Trip saras hati pan thaki gaya bahu,mixed,travel
+162,Hotel saru hatu pan location door hatu,mixed,travel
+163,Beach saras hato pan bahu gandagi hati,mixed,travel
+164,View ekdum mast hato pan chadhai bahu tough hati,mixed,travel
+165,Flight on time hati pan food kharab hatu,mixed,travel
+166,Goa trip maja aavi pan budget bahu vadhi gayu,mixed,travel
+167,Kutch saras che pan garmi bahu hati,mixed,travel
+168,Train ma seat madi pan AC kaam nahi karti hati,mixed,travel
+169,Hotel accha hai but room chota che,mixed,travel
+170,Sir saras samjave che pan speed bahu fast che,mixed,college
+171,Result saru aavyu pan percentage ochi che,mixed,college
+172,Exam easy hati pan time ochu hatu,mixed,college
+173,Canteen nu food saru che pan bheed bahu che,mixed,college
+174,Project saras bani gayo pan presentation ma darr lagyo,mixed,college
+175,Lab saru che pan computers slow che,mixed,college
+176,Fest ma maja aavi pan thaki gayo bahu,mixed,college
+177,Placement saru che pan package ochu che,mixed,college
+178,Library shant che pan books ochi che,mixed,college
+179,Product saru che pan packing kharab hati,mixed,service
+180,Phone fast che pan battery jaldi utre che,mixed,service
+181,Camera saru che but price bahu vadhare che,mixed,service
+182,App saras che pan ads bahu aave che,mixed,service
+183,Delivery boy saro hato pan order late hato,mixed,service
+184,Support ye help kari pan time bahu lagyo,mixed,service
+185,Laptop saras che pan garam bahu thay che,mixed,service
+186,Earphones sound saru che pan fit nathi thata,mixed,service
+187,Refund malyu pan bahu time lagyo,mixed,service
+188,Net speed saru che pan bill bahu vadhare che,mixed,service
+189,Video saras che pan thodo lamba che,mixed,social
+190,Reel mast che but music copy che,mixed,social
+191,Podcast interesting che pan audio quality ochi che,mixed,social
+192,Post saru che pan comments ma loko ladta hata,mixed,social
+193,Idea unique che pan execution bahu weak che,mixed,social
+194,Youtuber saro che pan ads bahu vadhare che,mixed,social
+195,Kaam saru che pan boss bahu strict che,mixed,general
+196,Job saru che pan travel bahu karvu pade che,mixed,general
+197,Ghar saru che pan area bahu noisy che,mixed,general
+198,Bahu thaki gayo pan kaam purun thai gayu,mixed,general
+199,Friends saras che pan time nathi male,mixed,general
+200,Khush chhu pan thodo chinta pan che,mixed,general
+201,Mummy ni yaad aave che pan hostel ma maja pan che,mixed,general
+202,Bhai saro che pan hamesha late aave che,mixed,general
+203,Salary vadhi pan kharcha pan vadhi gaya,mixed,general
+204,Gift saru hatu pan size barabar nahi hatu,mixed,general
+205,Weekend saro gayo pan Monday no darr che,mixed,general
+206,Kale match ketla vage che,neutral,cricket
+207,Aaje India nu match che ke nahi,neutral,cricket
+208,Toss jiti ne batting lidhi,neutral,cricket
+209,Score ketlo thayo che aaje,neutral,cricket
+210,IPL no schedule moklo,neutral,cricket
+211,Match tv par aave che ke app par,neutral,cricket
+212,Kale practice match che,neutral,cricket
+213,Team ma koi change thayo che,neutral,cricket
+214,Final kyare che,neutral,cricket
+215,Aaje ni playing eleven shu che,neutral,cricket
+216,Movie nu timing shu che,neutral,movie
+217,Kya theatre ma lagi che aa movie,neutral,movie
+218,Trailer joyu ke nahi,neutral,movie
+219,Weekend ma koi movie jovi che,neutral,movie
+220,Aa movie OTT par kyare aavse,neutral,movie
+221,Ticket book kari didhi che,neutral,movie
+222,Movie ketla kalak ni che,neutral,movie
+223,Release date kya che aa film ni,neutral,movie
+224,Sunday ma lunch ma shu banavu,neutral,food
+225,Aaje dinner ma khichdi banavi chhe,neutral,food
+226,Rasoi ma gas khatam thai gayo che,neutral,food
+227,Zomato par order karyu che,neutral,food
+228,Restaurant ketla vage khule che,neutral,food
+229,Pizza order karvo che koi aave che,neutral,food
+230,Chai pivi che ke coffee,neutral,food
+231,Breakfast ma poha banavyo che,neutral,food
+232,Aaje savare varsad hato,neutral,weather
+233,Kale hava kevi raheshe,neutral,weather
+234,Aaje temperature 35 degree che,neutral,weather
+235,Ahmedabad ma aaje vadal che,neutral,weather
+236,Winter ni season chalu thai che,neutral,weather
+237,Aaje vijli gai che,neutral,weather
+238,Aaj mausam kaisa hai,neutral,weather
+239,Kale Surat ni train 6 vage che,neutral,travel
+240,Ticket book karvi che IRCTC par,neutral,travel
+241,Bus stand kya aavyu,neutral,travel
+242,Hotel booking confirm thai gayu,neutral,travel
+243,Airport par pochi gayo chhu,neutral,travel
+244,Vadodara jaiye chhiye kale,neutral,travel
+245,Passport ni appointment che,neutral,travel
+246,Ola book kari che,neutral,travel
+247,Trip no plan WhatsApp group ma moklu chhu,neutral,travel
+248,Aaje college ma holiday che,neutral,college
+249,Kale exam hall ma 9 vage pochvanu che,neutral,college
+250,Assignment submit karvani last date kyare che,neutral,college
+251,Notes WhatsApp ma moklo,neutral,college
+252,Aaje lecture 11 vage che,neutral,college
+253,Practical file jama karvi che,neutral,college
+254,Fees payment ni last date shu che,neutral,college
+255,Result kyare aavse,neutral,college
+256,Placement drive kale che,neutral,college
+257,Library 5 vage band thay che,neutral,college
+258,Order no tracking number moklo,neutral,service
+259,Parcel aaje aavse ke kale,neutral,service
+260,Customer care no number shu che,neutral,service
+261,Return policy shu che aa product ni,neutral,service
+262,Mari complaint no status batavo,neutral,service
+263,Recharge karvo che 299 no plan,neutral,service
+264,New phone leva no vichar che,neutral,service
+265,Laptop ni warranty ketla varsh ni che,neutral,service
+266,App update karvi padse,neutral,service
+267,Net bill bharvu che aaje,neutral,service
+268,Aa video ni link moklo,neutral,social
+269,Instagram par follow karyu che,neutral,social
+270,Aa post mari story ma mukyu che,neutral,social
+271,Comment ma link aapi che,neutral,social
+272,YouTube par naya video aavyo che,neutral,social
+273,Group ma message moklyo che,neutral,social
+274,Profile photo badli che,neutral,social
+275,Kale savare 7 vage uthvu che,neutral,general
+276,Hu aaje ghare j chhu,neutral,general
+277,Phone ma network nathi,neutral,general
+278,Aaje bank ma kaam che,neutral,general
+279,Kya chho kyare malsho,neutral,general
+280,Kale meeting 10 vage che,neutral,general
+281,Tame jamya ke nahi,neutral,general
+282,Mari pase aaje time nathi,neutral,general
+283,Aaje office ma rajaa che,neutral,general
+284,Raat na 10 vagya che,neutral,general
+285,Aaje Monday che,neutral,general
+286,Bhai call kar mane,neutral,general
+287,Charger kya mukyu che,neutral,general
+288,Mane address moklo,neutral,general
+289,Kai khabar che aaje shu thayu,neutral,general
+290,Aaje Navratri no pehlo divas che,neutral,general
+291,Uttarayan ma patang udavva javu che,neutral,general
+292,Diwali ni rajaa ketla divas ni che,neutral,general
+293,Wedding ma jaiye chhiye kale,neutral,general
+294,Kal ka plan kya hai,neutral,general
+295,Mujhe address bhejo,neutral,general
+296,Kab aaoge ghar par,neutral,general
+297,Bahuuu saras video che loved it,positive,social
+298,Sars movie hati yaar full paisa vasool,positive,movie
+299,Kharekhar mast song che repeat par chalu che,positive,social
+300,Tame bahu saras kaam karyu congrats,positive,general
+301,Aaje to maja j maja aavi gai,positive,general
+302,Garba ma bahu maja aavi ekdum mast event hato,positive,general
+303,Navratri ma garba ni maja j alag che,positive,general
+304,Uttarayan ma patang ni maja aavi gai kai po che,positive,general
+305,Mummy ye banavyu hatu ekdum mast khavanu,positive,food
+306,Chai ekdum perfect banavi che superb,positive,food
+307,Pani puri ni maja j alag che yaar,positive,food
+308,Khaman dhokla no taste ekdum authentic che,positive,food
+309,Ice cream ekdum tasty hati loved it,positive,food
+310,Bohot accha movie hai yaar must watch,positive,movie
+311,Zabardast acting hai hero ki,positive,movie
+312,Bahut mast song hai,positive,social
+313,Kya baat hai bhai ekdum jhakaas,positive,general
+314,Mast mast video che share karo,positive,social
+315,Team India ye kamal kari didhu proud chhu,positive,cricket
+316,Last over ma jit maljo maja aavi gai,positive,cricket
+317,Century maari didhi wah wah,positive,cricket
+318,Hardik ni batting superb hati,positive,cricket
+319,Dhoni ni yaad aavi gai ekdum legend,positive,cricket
+320,Aaje mausam bahu saras che garma garam chai joiye,positive,weather
+321,Varsad ma bhijay ne maja aavi gai,positive,weather
+322,Sanje ni hava ekdum fresh che,positive,weather
+323,Goa ma bahu maja aavi ekdum paisa vasool,positive,travel
+324,Statue of Unity ekdum amazing che must visit,positive,travel
+325,Saputara ni hawa ekdum mast che,positive,travel
+326,Rann of Kutch no nazaro adbhut che,positive,travel
+327,Hotel staff bahu polite hata thank you,positive,travel
+328,Flight ekdum on time hati superb,positive,travel
+329,Result aavyo ane distinction malyu khub khushi,positive,college
+330,Sir ye bahu saru shikhavyu thank you sir,positive,college
+331,Placement thai gayu bahu khush chhu,positive,college
+332,Project ma full marks malya maja aavi,positive,college
+333,Friends sathe college life bahu mast che,positive,college
+334,Scholarship malli gai bahu khush chhu,positive,college
+335,Quick delivery mali gai thank you,positive,service
+336,Phone ni battery ekdum saras che,positive,service
+337,Customer support ekdum helpful hatu,positive,service
+338,Packing bahu saras hati product saru che,positive,service
+339,Value for money che ekdum recommend karu chhu,positive,service
+340,App no UI ekdum saras che,positive,service
+341,Net speed ekdum fast che bahu saras,positive,service
+342,Bhai tu to kamal che thank you,positive,general
+343,Birthday party ekdum mast hati,positive,general
+344,Shubh savar badha ne have a great day,positive,general
+345,Congrats bhai promotion mate khub khub abhinandan,positive,general
+346,Tame badha bahu saras chho love you all,positive,general
+347,Aaje mood ekdum fresh che,positive,general
+348,Family sathe time bahu saras gayo,positive,general
+349,Aaje ghare mehman aavya bahu maja aavi,positive,general
+350,Aa gift bahu j pasand aavyu thank you,positive,general
+351,Kaam purun thai gayu bahu rahat thai,positive,general
+352,Love this song yaar bahu j mast che,positive,social
+353,Wow ketlu sars photo che,positive,social
+354,Bahu inspiring story che share karo,positive,social
+355,Movie bahu j kharab hati ekdum waste,negative,movie
+356,Story ma koi logic nathi bahu bakwas,negative,movie
+357,Songs bekar hata ane acting pan faltu,negative,movie
+358,Aa film joi ne bahu pastavo thayo,negative,movie
+359,Bohot bakwas movie thi time barbad,negative,movie
+360,Dubbing bahu kharab che sambhalay nahi,negative,movie
+361,Food bekar hatu ane service pan bakwas,negative,food
+362,Dal ma namak j nathi bahu kharab,negative,food
+363,Burger thando hato ane mehngo pan,negative,food
+364,Restaurant ma gandagi bahu hati,negative,food
+365,Tea ma maakhi nikli bahu ghin aavi,negative,food
+366,Aaje khavanu bahu j faltu hatu,negative,food
+367,Kharab food bimar kari didho,negative,food
+368,Batsmen ekdum fail gaya sharam che,negative,cricket
+369,Captain ni strategy bakwas che,negative,cricket
+370,Bowlers ye bahu runs aapya kharab,negative,cricket
+371,Aaje match ma bahu bura khelyu,negative,cricket
+372,Rain ye match bagadi didhi dukh thayu,negative,cricket
+373,Ticket black ma bahu mehngi che loot che,negative,cricket
+374,Aaje bahu garmi che baher nikalay nahi,negative,weather
+375,Varsad ma road bandh thai gaya bahu pareshani,negative,weather
+376,Bahu thand che ane ghar ma heater nathi,negative,weather
+377,Pollution bahu vadhi gayu che shwas nathi levay,negative,weather
+378,Train 5 kalak late che bahu pareshan chhu,negative,travel
+379,Flight cancel thai gai bahu gussa aave che,negative,travel
+380,Hotel ma bed bugs hata bakwas,negative,travel
+381,Taxi wala ye vadhare paisa lidha loot che,negative,travel
+382,Traffic jam ma 2 kalak fasayo,negative,travel
+383,Road ma khadda bahu che kharab condition,negative,travel
+384,Bus ma seat j na madi ane bahu garmi hati,negative,travel
+385,Exam paper bahu tough hato kai aavdyu nahi,negative,college
+386,Marks bahu ochi aavya bahu dukh thayu,negative,college
+387,Lecture ma kai samajh j na padyu,negative,college
+388,Attendance ni problem che bahu tension che,negative,college
+389,Professor bahu strict che ane samjavta nathi,negative,college
+390,Backlog aavi gayu che bahu chinta che,negative,college
+391,Assignment ni deadline pasar thai gai,negative,college
+392,Bohot boring class thi neend aa gayi,negative,college
+393,Order wrong aavyo ane refund pan nathi malyu,negative,service
+394,Customer care ye phone j na upadyo bakwas,negative,service
+395,Phone hang thay che bahu irritating,negative,service
+396,Product tuti ne aavyu che bekar service,negative,service
+397,App ma login j nathi thatu bahu kharab,negative,service
+398,Net 2 divas thi band che koi sunvatu nathi,negative,service
+399,Fake product mokli didhu cheating che,negative,service
+400,Delivery boy ye misbehave karyu,negative,service
+401,Bill ma vadhare charge lagavyu che loot,negative,service
+402,Kitna bakwas service hai yaar,negative,service
+403,Aa video ma bahu misinformation che,negative,social
+404,Troll karnara loko bahu irritate kare che,negative,social
+405,Aa page bahu j bakwas che unfollow kari didhu,negative,social
+406,Comments ma gaali j gaali che sharam,negative,social
+407,Fake news phelavi didhi bahu galat,negative,social
+408,Aaje mood bahu kharab che kai gamtu nathi,negative,general
+409,Bahu j thaki gayo chhu kai nathi thatu,negative,general
+410,Bahu tension che kai samajtu nathi,negative,general
+411,Koi ne mari parwa j nathi bahu dukh thay che,negative,general
+412,Aaje ni divas j kharab hato,negative,general
+413,Neend j nathi aavti bahu pareshan chhu,negative,general
+414,Mara sathe cheating thayu che bahu gussa che,negative,general
+415,Wifi j nathi chalatu aaje bahu bura,negative,general
+416,Salary time par nathi aavi bahu mushkil che,negative,general
+417,Padosi bahu noise kare che sahan nathi thatu,negative,general
+418,Bahut bura din tha aaj,negative,general
+419,Mujhe bahut gussa aa raha hai,negative,general
